@@ -491,7 +491,7 @@ UserVaultView.vaultSettingsButton.lore.description1: "Spravujte název, ikonu a 
 UserVaultView.vaultSettingsButton.lore.description2: "uživatele, se kterými chcete tento Vault sdílet,"
 UserVaultView.vaultSettingsButton.lore.description3: "na základě definovaných oprávnění a také"
 UserVaultView.vaultSettingsButton.lore.description4: "apřevod jeho vlastnictví."
-UserVaultView.vaultSettingsButton.name: "Nastavení Vaul"
+UserVaultView.vaultSettingsButton.name: "Nastavení Vault"
 UserView.itemBlacklistButton.lore.blacklistedItems: "Položky na černé listině:"
 UserView.itemBlacklistButton.lore.blacklistedItems.none: "Žádný"
 UserView.itemBlacklistButton.lore.blacklistedItemsAmount: "Položky na černé listině: **%amount%**"
